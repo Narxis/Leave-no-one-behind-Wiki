@@ -17,7 +17,7 @@ Ces objets existent dans `src/config/items.json`.
 | [Yorc](races/yorc.md) | Massue Yorc |
 | [Nek-Eau](races/nek.md#nek-eau) | Filet paralysant |
 | [Nek-Feu](races/nek.md#nek-feu) | Projectile à combustion |
-| [Nek-Terre](races/nek.md#nek-terre) | Nek'ronomicon, Nek-k47 |
+| [Nek-Terre](races/nek.md#nek-terre) | Nek'Ronomicon, Nek-k47 |
 | [Nek-Air](races/nek.md#nek-air) | Em-0 Droid |
 
 ### Électronique
@@ -29,12 +29,12 @@ Ces objets existent dans `src/config/items.json`.
 
 SPIDER bomb (*Spooky Powerful Intelligent Directed Explosive Reliable Bomb*), bouteille offerte au pub (marque « Jaks Dimalou's »), antivirus à usage unique, boules de Chris Tale, outils de réparation de module.
 
-## Le Nek'ronomicon (à trancher)
+## Le Nek'Ronomicon
 
-Le nom désigne deux objets différents selon les sources :
+Deux objets portent ce nom (avec un R majuscule), et les deux sont gardés :
 
-- dans `items.json` : le recueil religieux à double fond des Nek-Terres ;
-- dans les brouillons de cartes neutres : un livre qui contient toute la connaissance du monde, répond à une question puis explose (et blesse celui qui l'a posée).
+- le **recueil religieux à double fond** des Nek-Terres, objet de départ (`items.json`) ;
+- le **livre qui sait tout** : il contient toute la connaissance du monde, répond à une question puis explose (et blesse celui qui l'a posée). On peut le gagner à la bibliothèque de l'espace (brouillons de cartes neutres).
 
 ## Idées pas encore dans le jeu
 

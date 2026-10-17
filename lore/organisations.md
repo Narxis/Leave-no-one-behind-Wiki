@@ -42,3 +42,6 @@ Le Notion prévoit un groupe qui maintient la paix entre les régions des trois 
 | AMIS | *Alliance de Mercenaires Interplanétaires Sanguinaires*. Ils prennent des modules de survie en otage pour récupérer des humains. |
 | Groupuscule Armé des Yorcs Salvateurs | Milice [yorc](races/yorc.md) qui attaque les vaisseaux et synthétise illégalement des Shrips. |
 | Shrymps Hackers d'Informations Antifongiques Sécurisés | Hackers [shrymps](races/shrymp.md) qui suppriment des bases de données et attaquent l'Observatoire. |
+| Alliance de Neks Anti Litige | Faction [nek](races/nek.md) listée parmi les ennemis dans le Notion, encore sans description. |
+
+Voir aussi [Ennemis](ennemis.md).
