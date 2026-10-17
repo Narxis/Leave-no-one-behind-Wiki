@@ -12,9 +12,15 @@ Leurs implants cybernétiques les aident à s'adapter à leur environnement. Ils
 
 ## Statistiques
 
+<!-- jeu:debut stats-races shrymp -->
+
+_Généré depuis `src/config/raceStats.json` du jeu : ne pas modifier à la main._
+
 | Combat | Pilotage | Ingénierie | Survie | Reconnaissance |
 | --- | --- | --- | --- | --- |
 | −1 | +2 | +2 | −1 | +1 |
+
+<!-- jeu:fin -->
 
 ## Objets de départ
 

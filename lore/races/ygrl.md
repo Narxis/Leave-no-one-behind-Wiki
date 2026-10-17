@@ -14,9 +14,15 @@ Les [Shrymps](shrymp.md) les vénèrent comme des divinités. Une tribu d'Ygrl e
 
 ## Statistiques
 
+<!-- jeu:debut stats-races ygrl -->
+
+_Généré depuis `src/config/raceStats.json` du jeu : ne pas modifier à la main._
+
 | Combat | Pilotage | Ingénierie | Survie | Reconnaissance |
 | --- | --- | --- | --- | --- |
 | 0 | +2 | −2 | +1 | +2 |
+
+<!-- jeu:fin -->
 
 ## Objets de départ
 

@@ -14,9 +14,15 @@ Malgré leur avance technologique, ils préfèrent se battre à la fronde.
 
 ## Statistiques
 
+<!-- jeu:debut stats-races fnek -->
+
+_Généré depuis `src/config/raceStats.json` du jeu : ne pas modifier à la main._
+
 | Combat | Pilotage | Ingénierie | Survie | Reconnaissance |
 | --- | --- | --- | --- | --- |
 | +2 | +2 | +2 | −1 | −2 |
+
+<!-- jeu:fin -->
 
 ## Objets de départ
 

@@ -12,9 +12,15 @@ Ils ne peuvent pas s'empêcher de faire des blagues du type « Non-Bril » ou «
 
 ## Statistiques
 
+<!-- jeu:debut stats-races omphor -->
+
+_Généré depuis `src/config/raceStats.json` du jeu : ne pas modifier à la main._
+
 | Combat | Pilotage | Ingénierie | Survie | Reconnaissance |
 | --- | --- | --- | --- | --- |
 | −2 | +2 | +2 | +2 | −1 |
+
+<!-- jeu:fin -->
 
 ## Objets de départ
 
