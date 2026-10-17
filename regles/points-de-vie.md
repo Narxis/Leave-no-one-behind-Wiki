@@ -64,7 +64,7 @@ Un joueur K.O. ne joue plus et ne peut plus être visé jusqu'à la fin du comba
 
 | Soin | Quand | Effet |
 | --- | --- | --- |
-| **Soigner un allié** | En combat, à la place de son action | Jet de **Survie** réussi : l'allié regagne **1d8 PV**. Tout le monde peut le tenter ; un infirmier peut y gagner un bonus (règle des rôles, en proposition). Pas sur soi-même. |
+| **Soigner un allié** | En combat, à la place de son action | Jet de **Survie** réussi : l'allié regagne **1d8 PV**. Tout le monde peut le tenter ; l'infirmier a son bonus de rôle (voir [Rôles](roles.md)). Pas sur soi-même. |
 | **Premiers soins** | Une fois après chaque combat | Chaque joueur blessé peut être soigné une fois : jet de **Survie** du soigneur réussi → **+20 PV**. |
 | **Objet de soin** | À tout moment (en combat : son action) | Objet consommable « trousse de soins » à ajouter dans l'éditeur d'objets : **+30 PV**. Les objets qui « remontent le moral » d'une race (Shrips pour les Omphors, pelote de laine pour les Neks, voir [Objets](../lore/objets.md)) donnent **+50 PV** (5 moral) à cette race. |
 | **Repos sur une planète** | À chaque planète, que l'équipage atterrisse ou reparte | Tous les joueurs regagnent **100 PV** (10 moral). |
