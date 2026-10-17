@@ -9,7 +9,7 @@ Le vaisseau des joueurs est un **PLUGS** (*Pretty Looking and Ultimately Gloriou
 - Il atteint « à peu près un peu moins que la vitesse de la lumière », mais moins, et uniquement le mercredi en descente (pour les années bissextiles, se référer au manuel).
 - Il peut atterrir sur n'importe quelle surface grâce à des bras mécaniques qui pénètrent dans le sol (sauf sur les matelas gonflables et la lave en fusion, sauf si la lave est à plus de 21 °C).
 - L'intérieur est organisé pour un confort optimal : salle de cinéma avec une bibliothèque de plus de 150 000 films de pétanque, et une machine à glace.
-- Son **autopilote** est en retard sur son temps mais capable d'anticiper des évènements passés. Il est recommandé de ne pas l'utiliser pour survivre avec plus de chance. C'est souvent lui qui mène l'équipage vers les [lieux](lieux.md).
+- Son **autopilote** est en retard sur son temps mais capable d'anticiper des évènements passés. Il est recommandé de ne pas l'utiliser pour survivre avec plus de chance. C'est souvent lui qui mène l'équipage vers les [lieux](lieux/README.md).
 
 ## La séquence de lancement
 
