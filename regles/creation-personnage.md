@@ -24,6 +24,10 @@ Pour chacune, le joueur lance des dés à 50 faces selon le modificateur de sa r
 
 Ces valeurs sont celles du jeu (`src/config/raceStats.json`, mises à jour le 21/02/2023). Le Moral est à 0 pour toutes les races.
 
+<!-- jeu:debut stats-races -->
+
+_Généré depuis `src/config/raceStats.json` du jeu : ne pas modifier à la main._
+
 | Race | Combat | Pilotage | Ingénierie | Survie | Reconnaissance |
 | --- | --- | --- | --- | --- | --- |
 | Fnek | +2 | +2 | +2 | −1 | −2 |
@@ -37,6 +41,8 @@ Ces valeurs sont celles du jeu (`src/config/raceStats.json`, mises à jour le 21
 | Nek-Feu | +1 | +2 | −2 | +2 | 0 |
 | Nek-Terre | −1 | +1 | 0 | +1 | +2 |
 | Nek-Air | −1 | +2 | +2 | −2 | +2 |
+
+<!-- jeu:fin -->
 
 Chaque race totalise +3. L'ancien tableau du Notion (total +1) n'est plus à jour ; il reste dans les [archives](../archives-notion/).
 
