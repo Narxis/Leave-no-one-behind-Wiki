@@ -15,9 +15,15 @@ Leur chef Sylv 1 dur-If et le préfet **Dimalou**, « Gardien de la connaissance
 
 ## Statistiques
 
+<!-- jeu:debut stats-races sylv -->
+
+_Généré depuis `src/config/raceStats.json` du jeu : ne pas modifier à la main._
+
 | Combat | Pilotage | Ingénierie | Survie | Reconnaissance |
 | --- | --- | --- | --- | --- |
 | −1 | 0 | +2 | +1 | +1 |
+
+<!-- jeu:fin -->
 
 ## Objets de départ
 

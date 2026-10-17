@@ -10,9 +10,15 @@ Ce sont de bons utilisateurs d'armes, mais ils sont faibles à mains nues. Ils o
 
 ## Statistiques
 
+<!-- jeu:debut stats-races yorc -->
+
+_Généré depuis `src/config/raceStats.json` du jeu : ne pas modifier à la main._
+
 | Combat | Pilotage | Ingénierie | Survie | Reconnaissance |
 | --- | --- | --- | --- | --- |
 | +2 | 0 | 0 | +2 | −1 |
+
+<!-- jeu:fin -->
 
 ## Objets de départ
 

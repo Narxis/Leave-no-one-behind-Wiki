@@ -6,12 +6,18 @@ Les Neks sont des créatures humanoïdes avec des **oreilles de chat**, très ag
 
 ## Statistiques
 
-| Sous-race | Combat | Pilotage | Ingénierie | Survie | Reconnaissance |
+<!-- jeu:debut stats-races nek_eau,nek_feu,nek_terre,nek_air -->
+
+_Généré depuis `src/config/raceStats.json` du jeu : ne pas modifier à la main._
+
+| Race | Combat | Pilotage | Ingénierie | Survie | Reconnaissance |
 | --- | --- | --- | --- | --- | --- |
 | Nek-Eau | 0 | +2 | +1 | −2 | +2 |
 | Nek-Feu | +1 | +2 | −2 | +2 | 0 |
 | Nek-Terre | −1 | +1 | 0 | +1 | +2 |
 | Nek-Air | −1 | +2 | +2 | −2 | +2 |
+
+<!-- jeu:fin -->
 
 ## Nek-Eau
 
