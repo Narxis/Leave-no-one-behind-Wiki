@@ -38,6 +38,14 @@ Les tableaux « Dans le jeu » (stats des races, objets, statuts) sont recopiés
 
 Quand le wiki et le jeu se contredisent, c'est le MJ qui décide, sauf mention contraire.
 
+### Le site pour les joueurs
+
+L'univers et les règles sont publiés sur **https://narxis.github.io/Leave-no-one-behind-Wiki/** (menu, recherche, lisible sur téléphone). Les pages des races, des objets, des lieux, des ennemis, le guide du MJ et les archives Notion n'y sont pas : elles restent ici pour le MJ, et les joueurs les découvrent dans le Codex du jeu.
+
+- **À faire une seule fois** : sur GitHub, *Settings → Pages → Build and deployment → Source : GitHub Actions*. Ensuite, chaque modification de `lore/`, `regles/` ou `glossaire.md` poussée sur `main` met le site à jour (action « Site du wiki », `.github/workflows/site.yml`). On peut aussi la lancer à la main depuis l'onglet *Actions*.
+- **Ajouter ou retirer une page du site** : la liste `nav` de `mkdocs.yml`. Seules les pages de cette liste sont publiées ; un lien vers une page non publiée s'affiche comme du texte simple (`publication/hooks.py`).
+- **Voir le site sur son PC** : `pip install -r publication/requirements.txt`, puis `mkdocs serve` et ouvrir http://127.0.0.1:8000.
+
 ## English
 
 You will find here all the information about the lore of Leave-no-one-behind. The wiki is written in French.
