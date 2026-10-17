@@ -10,9 +10,15 @@ Ils n'ont pas de prénom : ils se font appeler par leur premier métier suivi de
 
 ## Statistiques
 
+<!-- jeu:debut stats-races aku -->
+
+_Généré depuis `src/config/raceStats.json` du jeu : ne pas modifier à la main._
+
 | Combat | Pilotage | Ingénierie | Survie | Reconnaissance |
 | --- | --- | --- | --- | --- |
 | +2 | −2 | +1 | 0 | +2 |
+
+<!-- jeu:fin -->
 
 ## Objets de départ
 

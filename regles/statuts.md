@@ -6,6 +6,21 @@ Les statuts sont des effets temporaires appliqués par les cartes.
 
 Définis dans `src/config/statuses.json` :
 
+<!-- jeu:debut statuts -->
+
+_Généré depuis `src/config/statuses.json` du jeu : ne pas modifier à la main._
+
+| Statut | Texte du jeu |
+| --- | --- |
+| **Blackout** | Le vaisseau ne peut plus rien détecter, il est impossible pour les joueurs d’agir. |
+| **Anticipation** | Les joueurs vont pouvoir éviter le prochain danger sans subir de pertes. |
+| **Affaibli** | Une ou plusieurs statistiques des joueurs sont diminuées |
+| **Recherché** | Vous êtes recherchés par les autorités |
+
+<!-- jeu:fin -->
+
+## En détail
+
 | Statut | Effet |
 | --- | --- |
 | **Blackout** | Le vaisseau ne détecte plus rien : les cartes s'affichent dans leur version « blackout », et les joueurs ne peuvent plus agir normalement. Déclenché quand on éteint les radars (pulsar, supernova, amas stellaire) ou par un court-circuit. |
