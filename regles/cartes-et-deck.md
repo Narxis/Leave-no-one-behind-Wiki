@@ -68,4 +68,4 @@ La page Notion « Rewards » classe les récompenses en quatre niveaux :
 | Basse | Composants et ressources, +Moral, +réputation |
 | Malus | −Moral, perte de consommables ou d'équipement, −argent |
 
-L'argent et la réputation ne sont pas encore dans le jeu.
+L'argent (les crédits) est dans le jeu : voir [Monnaie et marchands](monnaie.md). La réputation n'y est pas encore.

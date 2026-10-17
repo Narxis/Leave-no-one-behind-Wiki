@@ -25,6 +25,7 @@ Vous trouverez ici toutes les informations sur le lore de [Leave-no-one-behind](
 - [Cartes et deck](regles/cartes-et-deck.md)
 - [Score](regles/score.md)
 - [Artisanat](regles/artisanat.md)
+- [Monnaie et marchands](regles/monnaie.md)
 - [Guide du maître du jeu](regles/guide-mj.md) (à écrire)
 
 ### Le reste
