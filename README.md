@@ -31,7 +31,7 @@ Vous trouverez ici toutes les informations sur le lore de [Leave-no-one-behind](
 - [Glossaire](glossaire.md) : acronymes et jeux de mots
 - [Archives Notion](archives-notion/) : l'export d'origine, gardé tel quel pour référence
 
-Quand le wiki et le jeu se contredisent, c'est le jeu qui fait foi, sauf mention contraire.
+Quand le wiki et le jeu se contredisent, c'est le MJ qui décide, sauf mention contraire.
 
 ## English
 
