@@ -1,6 +1,6 @@
 # Les races
 
-Onze races sont jouables. Chacune a des bonus et malus de statistiques (voir [Création de personnage](../../regles/creation-personnage.md)), des objets de départ et des réactions particulières dans certaines cartes.
+Onze races de base sont jouables, plus les races customs que le MJ autorise dans le lobby. Chacune a des bonus et malus de statistiques (voir [Création de personnage](../../regles/creation-personnage.md)), des objets de départ et des réactions particulières dans certaines cartes.
 
 | Race | Système | Bonus | Malus |
 | --- | --- | --- | --- |
@@ -27,6 +27,6 @@ Onze races sont jouables. Chacune a des bonus et malus de statistiques (voir [Cr
 
 ## Orthographe
 
-Le nom s'écrit avec une majuscule et prend un *s* au pluriel : un Fnek, des Fneks ; une Ygrl, des Ygrls ; un Shrymp, des Shrymps (jamais « Shrimp ») ; un Yorc, des Yorcs (jamais « York ») ; une Nek-Eau, des Nek-Eaux ; un Nek-Feu, des Nek-Feux. Les Ygrls, Nek-Eaux et Nek-Airs sont féminines.
+Le nom s'écrit avec une majuscule et prend un *s* au pluriel : un Fnek, des Fneks ; une Ygrl, des Ygrls ; un Shrymp, des Shrymps (jamais « Shrimp ») ; un Yorc, des Yorcs (jamais « York ») ; une Nek-Eau, des Nek-Eaux ; un Nek-Feu, des Nek-Feux ; un Nek-Terre, des Nek-Terres ; une Nek-Air, des Nek-Airs. Les sous-races des Neks prennent une majuscule après le trait d'union. Les Ygrls, Nek-Eaux et Nek-Airs sont féminines.
 
 Ces règles suivent les textes du jeu (`src/config/lang.json`).

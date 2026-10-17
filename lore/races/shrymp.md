@@ -18,7 +18,7 @@ Leurs implants cybernétiques les aident à s'adapter à leur environnement. Ils
 
 ## Objets de départ
 
-Le **Shrymp Utility Kit** (kit de campement) contient : corde, lampe torche, nourriture déshydratée, dictionnaire ygrlien (inutile), mèche de cheveux d'Ygrl, et une **lance Shrymp** de la taille d'un cure-dent.
+Le **Shrymp Utility Kit** (kit de campement) contient : corde, lampe torche, nourriture déshydratée, dictionnaire ygrlien (inutile), mèche d'Ygrl, et une **lance Shrymp** de la taille d'un cure-dent.
 
 ## Dans les cartes
 
