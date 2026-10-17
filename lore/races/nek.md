@@ -29,7 +29,7 @@ Masculins. Ils ont un fort instinct de survie et sont prêts à tout pour proté
 
 Masculins. Ils ont leur propre religion : ils toquent aux portes des vaisseaux pour distribuer des prospectus. Leur messie est le **Saint Nek-Terre**, qui guidera leur peuple vers la lumière. Généralement pacifiques et bienveillants, mais très têtus dans leur foi, et en **guerre religieuse contre les Sylvs**.
 
-**Objets de départ :** Nek'ronomicon (recueil religieux à double fond) et Nek-k47 (revolver « nektologique » caché dans le double fond).
+**Objets de départ :** Nek'Ronomicon (recueil religieux à double fond) et Nek-k47 (revolver « nektologique » caché dans le double fond).
 
 ## Nek-Air
 
