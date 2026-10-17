@@ -8,7 +8,7 @@
 | Positive | Réparations, moral, objets, alliés | 6 |
 | Négative | Dégâts, intrus, perte de moral | 19 |
 | Neutre | Rencontres dont l'issue dépend des choix | 11 |
-| Lieu | Une étape à plusieurs embranchements (voir [Lieux](../lore/lieux.md)) | 3 lieux |
+| Lieu | Une étape à plusieurs embranchements (voir [Lieux](../lore/lieux/README.md)) | 3 lieux |
 | Planète | Une planète où l'on peut se poser | dans `jsonFiles/plaCardList.json` |
 
 Chiffres relevés dans `src/config/baseCards.json` en octobre 2026. Les brouillons PDF des [archives](../archives-notion/) parlaient de 39 négatives et 25 positives prévues.
@@ -49,3 +49,23 @@ D'après `src/config/readme.md` :
 6. Donner une récompense liée à l'histoire.
 
 Les cartes lieu se construisent dans l'éditeur visuel du jeu (`/buildCard`).
+
+### Les étapes intermédiaires
+
+Chaque voie d'un lieu passe par une étape intermédiaire, d'après la page Notion « Éléments intermédiaires » :
+
+- **un combat** : groupe de mobs, mob élite ou boss (voir [Ennemis](../lore/ennemis.md)) ;
+- **un PNJ** : quête, marchand ou simple interaction.
+
+### Les récompenses
+
+La page Notion « Rewards » classe les récompenses en quatre niveaux :
+
+| Niveau | Récompenses |
+| --- | --- |
+| Haute | Équipement (armes, armures), +stats |
+| Moyenne | Outils de réparation, consommables, boule de Chris Tale, argent |
+| Basse | Composants et ressources, +Moral, +réputation |
+| Malus | −Moral, perte de consommables ou d'équipement, −argent |
+
+L'argent et la réputation ne sont pas encore dans le jeu.

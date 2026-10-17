@@ -13,7 +13,8 @@ Vous trouverez ici toutes les informations sur le lore de [Leave-no-one-behind](
 - [Organisations](lore/organisations.md)
 - [Personnages](lore/personnages.md)
 - [Objets](lore/objets.md)
-- [Lieux](lore/lieux.md)
+- [Lieux](lore/lieux/README.md) : dont 6 scénarios complets
+- [Ennemis](lore/ennemis.md)
 
 ### Les règles
 

@@ -28,7 +28,7 @@ Les acronymes et jeux de mots de l'univers. Ceux qui désignent une organisation
 
 - **Em-0 Droid** : le drone des Nek-Airs.
 - **Le Saint Nek-Terre** : messie des Nek-Terres.
-- **Nek'ronomicon** : livre des Nek-Terres (voir [Objets](lore/objets.md#le-nekronomicon-à-trancher)).
+- **Nek'Ronomicon** : le recueil des Nek-Terres, et aussi le livre qui sait tout (voir [Objets](lore/objets.md#le-nekronomicon)).
 - **Au Nek-Tard** : pub de l'espace.
 - **Jaks Dimalou's** : la marque de bouteille offerte au pub.
 - **Les boules de Chris Tale** : les 7 boules qui invoquent « Chêne Ron Weasley ».
