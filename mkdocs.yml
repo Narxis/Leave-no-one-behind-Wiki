@@ -1,0 +1,82 @@
+# Site public du wiki (GitHub Pages), construit par .github/workflows/site.yml.
+# Seules les pages listées dans « nav » sont publiées : l'univers et les règles.
+# Les pages des races, des objets, des lieux, des ennemis, le guide du MJ et
+# les archives Notion restent dans le dépôt pour le MJ (voir publication/hooks.py).
+site_name: Leave no one behind
+site_description: L'univers et les règles du jeu de rôle Leave no one behind
+site_url: https://narxis.github.io/Leave-no-one-behind-Wiki/
+
+# La page d'accueil du site ; les autres pages sont lues à la racine du dépôt
+docs_dir: publication/accueil
+site_dir: _site
+
+theme:
+  name: material
+  language: fr
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Mode clair
+  icon:
+    logo: material/rocket-launch
+
+plugins:
+  - search:
+      lang: fr
+
+hooks:
+  - publication/hooks.py
+
+markdown_extensions:
+  - tables
+  - admonition
+  - attr_list
+  - toc:
+      permalink: true
+
+validation:
+  links:
+    anchors: warn
+
+watch:
+  - lore
+  - regles
+  - glossaire.md
+  - publication
+
+nav:
+  - Accueil: index.md
+  - L'univers:
+      - L'univers: lore/univers.md
+      - Le PLUGS: lore/vaisseau-plugs.md
+      - Les systèmes stellaires: lore/systemes-stellaires.md
+      - Organisations: lore/organisations.md
+      - Personnages: lore/personnages.md
+      - Glossaire: glossaire.md
+  - Les règles:
+      - Déroulement d'une partie: regles/deroulement.md
+      - Création de personnage: regles/creation-personnage.md
+      - Combat: regles/combat.md
+      - Statuts: regles/statuts.md
+      - Cartes et deck: regles/cartes-et-deck.md
+      - Score: regles/score.md
+      - Artisanat: regles/artisanat.md
