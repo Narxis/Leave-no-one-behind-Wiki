@@ -2,7 +2,7 @@
 
 ## Nom et race
 
-Chaque joueur choisit une [race](../lore/races/README.md) et un nom. Le MJ peut ensuite appeler les joueurs par leur nom de personnage pour renforcer l'immersion. Le jeu crée les personnages un par un ; l'ordre n'a pas d'importance.
+Chaque joueur choisit une [race](../lore/races/README.md) et un nom : une des onze races de base, ou une race custom que le MJ autorise dans le lobby. Le MJ peut ensuite appeler les joueurs par leur nom de personnage pour renforcer l'immersion. Le jeu crée les personnages un par un ; l'ordre n'a pas d'importance.
 
 Lire la page de sa race est recommandé : elle a une influence dans certaines cartes, et elle aide à jouer le personnage. Par exemple, une Nek-Eau et un Nek-Feu dans le même équipage peuvent se disputer pendant les phases de choix. On peut aussi faire des parties à thème où tout le monde joue la même race.
 
