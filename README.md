@@ -27,6 +27,7 @@ Vous trouverez ici toutes les informations sur le lore de [Leave-no-one-behind](
 - [Cartes et deck](regles/cartes-et-deck.md)
 - [Score](regles/score.md)
 - [Artisanat](regles/artisanat.md)
+- [Monnaie et marchands](regles/monnaie.md)
 - [Guide du maître du jeu](regles/guide-mj.md) (à écrire)
 
 Les tableaux « Dans le jeu » (stats des races, objets, statuts) sont recopiés depuis les fichiers du jeu, qui font foi pour les chiffres. Ils se trouvent entre les marqueurs `<!-- jeu:debut … -->` et `<!-- jeu:fin -->` : ne les modifiez pas à la main, le reste de la page est libre. Ils sont mis à jour par l'action « Tableaux du wiki » du dépôt du jeu, ou à la main depuis le dossier du jeu : `npm run wiki-tableaux -- ../Leave-no-one-behind-Wiki` (ajouter `--customs` pour inclure les races customs de l'éditeur).
