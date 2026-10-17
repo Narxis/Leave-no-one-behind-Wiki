@@ -16,6 +16,7 @@ _Généré depuis `src/config/statuses.json` du jeu : ne pas modifier à la main
 | **Anticipation** | Les joueurs vont pouvoir éviter le prochain danger sans subir de pertes. |
 | **Affaibli** | Une ou plusieurs statistiques des joueurs sont diminuées |
 | **Recherché** | Vous êtes recherchés par les autorités |
+| **Diverti** | L'équipage a le moral : les pertes de moral sont divisées par deux (arrondi vers le bas). |
 
 <!-- jeu:fin -->
 
