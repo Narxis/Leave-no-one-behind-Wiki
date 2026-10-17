@@ -21,6 +21,7 @@ Vous trouverez ici toutes les informations sur le lore de [Leave-no-one-behind](
 - [Déroulement d'une partie](regles/deroulement.md)
 - [Création de personnage](regles/creation-personnage.md)
 - [Règle de combat](regles/combat.md)
+- [Points de vie](regles/points-de-vie.md) : PV des joueurs, soins, K.O.
 - [Statuts](regles/statuts.md)
 - [Cartes et deck](regles/cartes-et-deck.md)
 - [Score](regles/score.md)
