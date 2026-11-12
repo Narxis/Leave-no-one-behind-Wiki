@@ -1,12 +1,12 @@
-# Site public du wiki (GitHub Pages), construit par .github/workflows/site.yml.
-# Seules les pages listées dans « nav » sont publiées : l'univers et les règles.
-# Les pages des races, des objets, des lieux, des ennemis, le guide du MJ et
-# les archives Notion restent dans le dépôt pour le MJ (voir publication/hooks.py).
+# Public wiki site (GitHub Pages), built by .github/workflows/site.yml.
+# Only the pages listed in "nav" are published: the universe and the rules.
+# The pages for races, items, places, enemies, the GM guide and
+# the Notion archives stay in the repo for the GM (see publication/hooks.py).
 site_name: Leave no one behind
 site_description: L'univers et les règles du jeu de rôle Leave no one behind
 site_url: https://narxis.github.io/Leave-no-one-behind-Wiki/
 
-# La page d'accueil du site ; les autres pages sont lues à la racine du dépôt
+# The site's home page; the other pages are read from the repo root
 docs_dir: publication/accueil
 site_dir: _site
 
