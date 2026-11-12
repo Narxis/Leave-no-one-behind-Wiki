@@ -1,9 +1,9 @@
-"""Hooks MkDocs du site public.
+"""MkDocs hooks for the public site.
 
-- Ajoute au site les pages du dépôt listées dans « nav » (mkdocs.yml), lues
-  à leur place (lore/, regles/…), sans les copier.
-- Dans ces pages, un lien vers une page non publiée (races, objets, lieux,
-  archives…) devient du texte simple : le site ne montre pas ces pages.
+- Adds to the site the repo pages listed in "nav" (mkdocs.yml), read
+  in place (lore/, regles/…), without copying them.
+- In these pages, a link to an unpublished page (races, items, places,
+  archives…) becomes plain text: the site doesn't show these pages.
 """
 import os
 import posixpath

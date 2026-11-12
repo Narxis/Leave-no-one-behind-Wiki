@@ -1,5 +1,5 @@
-# Publie le site du wiki (univers et règles) sur GitHub Pages.
-# À activer une seule fois : Settings → Pages → Source : GitHub Actions.
+# Publishes the wiki site (universe and rules) on GitHub Pages.
+# To enable once: Settings → Pages → Source: GitHub Actions.
 name: Site du wiki
 
 on:
@@ -12,7 +12,7 @@ on:
       - 'mkdocs.yml'
       - 'publication/**'
       - '.github/workflows/site.yml'
-  # Lancement à la main (onglet Actions), ou par l'action des tableaux
+  # Manual run (Actions tab), or from the tables action
   workflow_dispatch:
 
 permissions:
